@@ -1,0 +1,18 @@
+# Local credentials and configuration
+.env
+.env.*
+!.env.example
+tray_settings.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Packaged application and build output
+build/
+*.exe
+
+# Runtime output
+*.log
