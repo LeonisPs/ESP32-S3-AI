@@ -12,7 +12,6 @@ venv/
 
 # Packaged application and build output
 build/
-*.exe
 
 # Runtime output
 *.log
